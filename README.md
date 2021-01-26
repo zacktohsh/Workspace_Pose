@@ -1,5 +1,5 @@
 # Workspace_Pose
-+ A simple exercise to test out action recognition based on mmaction2.
++ A simple exercise to test out pose estimation based on PoseNet.
 ## Reference
 Videos: https://www.pexels.com/
 <br>
