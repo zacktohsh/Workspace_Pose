@@ -3,6 +3,5 @@
 ## Reference
 Videos: https://www.pexels.com/
 <br>
-Git repository from: https://github.com/open-mmlab/mmaction2
-<br>
-Colab referenced from: https://github.com/open-mmlab/mmaction2/blob/master/demo/mmaction2_tutorial.ipynb
+Git repository from: https://github.com/tensorflow/tfjs-models/tree/master/posenet
+
